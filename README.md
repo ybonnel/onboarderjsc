@@ -21,6 +21,7 @@ Or with yarn:
 ````
 yarn global add clever-tools
 ````
+Or from binaries: [https://www.clever-cloud.com/doc/clever-tools/getting_started/#installing-clever-tools](https://www.clever-cloud.com/doc/clever-tools/getting_started/#installing-clever-tools).
 
 Once `clever-tools` is installed, change directory to the Git repository and:
 
